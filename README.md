@@ -7,6 +7,6 @@ Copyleft(L) 2010-2013 - Jose Fonseca
 
 See live demo on http://gorillas.in/javascript
 
-Supported by https://www.MercadoViagens.com/
+Development time provided by https://www.MercadoViagens.com/
 
 Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
