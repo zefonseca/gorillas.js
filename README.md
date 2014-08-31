@@ -2,8 +2,11 @@ Gorillas.js - An implementation of GORILLAS.BAS in Javascript
 This software is released under the terms of the MIT license.
 
 Author: Jose Fonseca (jfonseca@zefonseca.com)
-Copyleft(L) 2010-2013 - Jose Fonseca (jfonseca@zefonseca.com) 
 
-See live demo on http://literati.com.br/games/gorillas/
+Copyleft(L) 2010-2013 - Jose Fonseca
 
-Based on GORILLAS.BAS - Copyright(C) 1991 IBM Corp.
+See live demo on http://gorillas.in/javascript
+
+Supported by https://www.MercadoViagens.com/
+
+Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.

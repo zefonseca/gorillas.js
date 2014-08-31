@@ -1,13 +1,15 @@
 
 /*
  *
- *   GORILLAS.JS - Copyleft(L) 2010-2013 - Jose Fonseca (jfonseca@zefonseca.com) 
+ *   GORILLAS.JS - Copyleft(L) 2010-2013 - Jose Fonseca (jfonseca@zefonseca.com) *
  *
- *   See live demo on http://literati.com.br/games/gorillas/
+ *   See live demo on http://gorillas.in/javascript
  *
- *   Based on GORILLAS.BAS - Copyright(C) 1991 IBM Corp.
+ *   Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
  *
- *   Author: Ze Fonseca (jfonseca@zefonseca.com)
+ *   Author: Ze Fonseca 
+ *
+ *   With support from https://www.MercadoViagens.com/
  *
  */
 
