@@ -3,13 +3,11 @@
  *
  *   GORILLAS.JS - Copyleft(L) 2010-2013 - Jose Fonseca (jfonseca@zefonseca.com) *
  *
- *   See live demo on http://gorillas.in/javascript
- *
  *   Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
  *
  *   Author: Ze Fonseca 
  *
- *   With support from https://www.MercadoViagens.com/
+ *   With support from https://www.MercadoViagens.com/ and https://tics.taxi/
  *
  */
 
