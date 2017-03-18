@@ -7,4 +7,18 @@ Copyleft(L) 2010-2013 - Jose Fonseca
 
 Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
 
+Live version http://tics.taxi/gorillas/
+
+
+
+
+
+
+
+
+
+
+
+
+------------
 Free development time provided by the kind folks at https://tics.taxi/ and https://www.mercadoviagens.com/
