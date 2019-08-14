@@ -1,13 +1,13 @@
 
 /*
  *
- *   GORILLAS.JS - Copyleft(L) 2010-2013 - Jose Fonseca (jfonseca@zefonseca.com) *
+ *   GORILLAS.JS - A Javascript version of the classic GORILLAS.BAS game.
  *
  *   Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
  *
- *   Author: Ze Fonseca 
+ *   Author: Jose Fonseca (https://zefonseca.com/)
  *
- *   With support from https://www.MercadoViagens.com/ and https://tics.taxi/
+ * 	 This software is released under the MIT license. See the accompanying COPYING or LICENSE file.
  *
  */
 

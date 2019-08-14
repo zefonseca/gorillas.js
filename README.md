@@ -1,24 +1,24 @@
-Gorillas.js - An implementation of GORILLAS.BAS in Javascript
-This software is released under the terms of the MIT license.
+# GORILLAS.JS 
 
-Author: Jose Fonseca (jfonseca@zefonseca.com)
-
-Copyleft(L) 2010-2013 - Jose Fonseca
+A Javascript version of the classic GORILLAS.BAS game.
 
 Based on GORILLAS.BAS - Copyright(C) 1981 IBM Corp.
 
-Live version http://tics.taxi/gorillas/
+### Live Version
+
+Play live version at http://tics.taxi/gorillas/
 
 
+### Download
 
+Sprites, html markup and other files referenced in the main .js file can be found under the live version (see link above) directory.
 
+The Javascript code must be edited to install under a different root directory. 
 
+### License 
 
+This software is released under the MIT license. See the accompanying COPYING or LICENSE file.
 
+### Author 
 
-
-
-
-
-------------
-Free development time provided by the kind folks at https://tics.taxi/ and https://www.mercadoviagens.com/
+Jose Fonseca (https://zefonseca.com/)
